@@ -1,4 +1,4 @@
-#  
+#  Enhance Bear for macOS with Bear for macOS premium Workflow: collaboration & focus mode, the #1 workflow. Includes collaboration and focus mode for a smoother experience.
 
 
 
